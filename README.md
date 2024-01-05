@@ -2,7 +2,8 @@
 
 Welcome to the Doorstep Services Application, a comprehensive solution built on the MERN stack that revolutionizes how households access essential services on a daily basis. This user-friendly application simplifies the process of finding and booking skilled service providers such as plumbers, carpenters, electricians, cleaning services, home repair personnel, caterers, and more, all from the comfort of your home.
 
-![Uploading Thumbnail.png…]()
+![Thumbnail](https://github.com/nishantgour2/DoorStepServices/assets/51044775/0e260f6a-573f-4cb1-92c7-90c310d88083)
+
 
 
 ## Features
