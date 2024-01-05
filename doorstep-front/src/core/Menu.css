@@ -1,0 +1,41 @@
+
+.navnav{
+    padding-left: 65%;
+    font-family: 'Lobster', cursive;
+    color:black;
+    
+}
+
+.logo{
+    color: #fdfeff;
+    /* margin-right: -200px; */
+    font-family: 'Chewy', cursive;
+
+}
+
+.bg33{
+    background: linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%);
+}
+
+.hu{
+    font-family: 'Bree Serif', serif;
+}
+
+
+.cart-badge ,.cart-badge:hover{
+
+padding-left:4px;
+padding-right:7px;
+
+/* text-align: center; */
+font-size: 12px;
+font-style: italic;
+background-color: #e40d0d;
+width: 4px;
+height: 2px;
+position: relative;
+overflow: hidden;
+border-radius: 50%;
+}

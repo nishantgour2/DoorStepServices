@@ -1,0 +1,55 @@
+.cardkaheader{
+    background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+
+font-family: 'Bree Serif', serif;
+}
+
+li {
+    /* font-family: 'Lobster Two', cursive; */
+    font-family: 'Bree Serif', cursive;
+
+}
+
+h1{
+    text-align: center;
+font-family: 'Bree Serif', serif;
+
+    padding-top:3% ;
+}
+
+.welcome{
+    text-align: center;
+    padding-bottom: 2%;
+font-family: 'Bree Serif', serif;
+
+}
+
+.hh{
+    color: #FF8201;
+font-family: 'Bree Serif', serif;
+
+}
+
+
+
+.bg{
+  background-image: url('../img/aa.jpg');
+  background-repeat: no-repeat;
+  height: 100%;
+  padding-bottom: 20%;
+  /* margin-top: -31px; */
+
+}
+
+.chotabacha{
+    height: 150px;
+    float: right ;
+    width: 120px;
+    margin-top: -8%;
+    margin-right: 30%;
+
+}
+
